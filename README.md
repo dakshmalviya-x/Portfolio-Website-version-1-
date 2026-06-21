@@ -27,6 +27,9 @@ I'm a 3rd-year Computer Science student at JUET Guna with a focus on AI/ML. I'm 
 
 <br/>
 
+### 🌐 Live Portfolio
+Check out my live portfolio here: [portfolio-website-version-1-ten.vercel.app](https://portfolio-website-version-1-ten.vercel.app)
+
 ## 🧰 Tech stack
 
 <div align="center">
