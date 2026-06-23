@@ -3,6 +3,45 @@
    ============================================ */
 
 /* ---------- ABOUT ---------- */
+.upcoming-project{
+    border:1px solid rgba(125,211,168,.25);
+    background:rgba(125,211,168,.05);
+}
+
+.upcoming{
+    background:#7dd3a8;
+    color:#0a0e14;
+    padding:4px 10px;
+    border-radius:999px;
+    font-size:.75rem;
+    font-weight:600;
+}
+
+.project-details{
+    margin:20px 0;
+}
+
+.project-details h4{
+    margin-bottom:12px;
+    color:#e6e6e6;
+}
+
+.project-details ul{
+    padding-left:18px;
+}
+
+.project-details li{
+    margin-bottom:8px;
+    color:#b7bcc8;
+}
+
+.section-heading{
+    margin-bottom:40px;
+}
+
+.section-heading h2{
+    margin:10px 0;
+}
 .about-hero {
   padding: clamp(2.5rem, 6vw, 4.5rem) 0 1rem;
 }
